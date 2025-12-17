@@ -1,0 +1,14 @@
+/home/atharva/Desktop/Csharp/MyApp/bin/Debug/net8.0/MyApp
+/home/atharva/Desktop/Csharp/MyApp/bin/Debug/net8.0/MyApp.deps.json
+/home/atharva/Desktop/Csharp/MyApp/bin/Debug/net8.0/MyApp.runtimeconfig.json
+/home/atharva/Desktop/Csharp/MyApp/bin/Debug/net8.0/MyApp.dll
+/home/atharva/Desktop/Csharp/MyApp/bin/Debug/net8.0/MyApp.pdb
+/home/atharva/Desktop/Csharp/MyApp/obj/Debug/net8.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/atharva/Desktop/Csharp/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfoInputs.cache
+/home/atharva/Desktop/Csharp/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfo.cs
+/home/atharva/Desktop/Csharp/MyApp/obj/Debug/net8.0/MyApp.csproj.CoreCompileInputs.cache
+/home/atharva/Desktop/Csharp/MyApp/obj/Debug/net8.0/MyApp.dll
+/home/atharva/Desktop/Csharp/MyApp/obj/Debug/net8.0/refint/MyApp.dll
+/home/atharva/Desktop/Csharp/MyApp/obj/Debug/net8.0/MyApp.pdb
+/home/atharva/Desktop/Csharp/MyApp/obj/Debug/net8.0/MyApp.genruntimeconfig.cache
+/home/atharva/Desktop/Csharp/MyApp/obj/Debug/net8.0/ref/MyApp.dll

@@ -1,0 +1,14 @@
+how to create a new project in c#?
+dotnet new console -o [Projectname]
+ex. dotnet new console -o MyApp
+
+how to run dotnet code?
+go inside the project directory and run the following command:-
+dotnet run
+
+how to compile a dotnet code?
+dotnet build
+-executable will be inside bin/Debug/net 8.0/
+-run it using:-
+	dotnet bin/Debug/net 8.0/ (from the project directory)
+
